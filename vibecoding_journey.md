@@ -636,3 +636,9 @@ You should see your GitHub username and the account you authenticated with. If y
 ---
 
 Once all tools are installed, return to [Phase 1: Define Your Idea](#phase-1-define-your-idea) and begin.
+
+---
+
+## Contributors
+
+- @dsmcl
